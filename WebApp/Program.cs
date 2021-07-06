@@ -4,7 +4,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WebApplicationLesson1
+namespace WebApp
 {
     class Program
     {
